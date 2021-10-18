@@ -1,5 +1,11 @@
 # dotfiles
-using i3 and urxvt
+using
+* i3
+* urxvt
+* feh
+* vim
+* mpv
+* ranger
 
 ## ~/.config/i3/config
 ```
