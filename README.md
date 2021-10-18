@@ -1,5 +1,5 @@
 # dotfiles
-using i3
+using i3 and urxvt
 
 ## ~/.config/i3/config
 ```
