@@ -85,6 +85,7 @@ tztime local {
 ```
 
 ## ~/.Xresources
+```
 URxvt.transparent:true
 URxvt.shading:20
 URxvt.scrollBar: false
@@ -129,3 +130,4 @@ Xft.dpi: 144
 ! white
 *.color7: #c2c2b0
 *.color15: #b0afa8
+```
