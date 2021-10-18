@@ -1,0 +1,2 @@
+# dotfiles
+using i3
