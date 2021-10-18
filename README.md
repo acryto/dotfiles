@@ -3,7 +3,7 @@ using
 * i3
 * urxvt
 * feh
-* vim
+* vim-X11
 * mpv
 * ranger
 
